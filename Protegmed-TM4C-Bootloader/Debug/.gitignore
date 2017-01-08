@@ -1,0 +1,4 @@
+/boot_loader/
+/makefile
+/objects.mk
+/sources.mk
