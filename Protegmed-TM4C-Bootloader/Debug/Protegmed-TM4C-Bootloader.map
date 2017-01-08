@@ -1,7 +1,7 @@
 ******************************************************************************
                   TI ARM Linker Unix v16.9.0                   
 ******************************************************************************
->> Linked Sun Jan  8 19:47:55 2017
+>> Linked Sun Jan  8 20:24:22 2017
 
 OUTPUT FILE NAME:   <Protegmed-TM4C-Bootloader.out>
 ENTRY POINT SYMBOL: "_c_int00"  address: 200015f7
@@ -11,7 +11,7 @@ MEMORY CONFIGURATION
 
          name            origin    length      used     unused   attr    fill
 ----------------------  --------  ---------  --------  --------  ----  --------
-  FLASH                 00000000   00010000  00001a64  0000e59c  R  X
+  FLASH                 00000000   00004000  00001a64  0000259c  R  X
   SRAM                  20000000   00010000  0000326c  0000cd94  RW X
 
 
