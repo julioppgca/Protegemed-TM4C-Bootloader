@@ -1,7 +1,7 @@
 ******************************************************************************
                   TI ARM Linker Unix v16.9.0                   
 ******************************************************************************
->> Linked Sun Jan  8 20:24:22 2017
+>> Linked Sun Jan  8 20:39:07 2017
 
 OUTPUT FILE NAME:   <Protegmed-TM4C-Bootloader.out>
 ENTRY POINT SYMBOL: "_c_int00"  address: 200015f7
